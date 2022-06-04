@@ -6,9 +6,14 @@
 
 
 Some information you may need it to explore the game:
+
 Product Version: NetBeans IDE 8.2 (Build 201609300101)
+
 Updates: Updates available to version NetBeans 8.2 Patch 2
+
 Java: 1.8.0_112; Java HotSpot(TM) 64-Bit Server VM 25.112-b15
+
 Runtime: Java(TM) SE Runtime Environment 1.8.0_112-b15
+
 System: Windows 10 version 10.0 running on amd64; Cp1252; en_US (nb)
  
