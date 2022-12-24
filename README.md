@@ -13,4 +13,4 @@ Some information you may need it to explore the game:
 - Runtime: Java(TM) SE Runtime Environment 1.8.0_112-b15
 - System: Windows 10 version 10.0 running on amd64; Cp1252; en_US (nb)
  
- ![alt text](https://apps.apple.com/us/app/google-photos/id962194608)
+ ![alt text][(https://apps.apple.com/us/app/google-photos/id962194608](https://upload.wikimedia.org/wikipedia/commons/b/b7/Nizza-C%C3%B4te_d%27Azur.jpg)
