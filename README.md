@@ -12,5 +12,3 @@ Some information you may need it to explore the game:
 - Java: 1.8.0_112; Java HotSpot(TM) 64-Bit Server VM 25.112-b15
 - Runtime: Java(TM) SE Runtime Environment 1.8.0_112-b15
 - System: Windows 10 version 10.0 running on amd64; Cp1252; en_US (nb)
- 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b7/Nizza-C%C3%B4te_d%27Azur.jpg)
