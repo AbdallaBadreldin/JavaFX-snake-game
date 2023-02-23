@@ -79,7 +79,7 @@ public class SnakeBouns extends Application {
     private Image foodImage;
     private ImageView food;
     private GridPane root;
-    private final int numColsAndRows = 16;
+    private final int numColsAndRows = 15;
 
     private int keyBoardTimeOut = 0;
     private int gameSpeed = 350;
